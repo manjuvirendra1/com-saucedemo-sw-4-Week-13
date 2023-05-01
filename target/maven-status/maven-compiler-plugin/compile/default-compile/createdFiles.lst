@@ -1,0 +1,6 @@
+com\saucedemo\browserfactory\ManageBrowser.class
+com\saucedemo\pages\HomePage.class
+com\saucedemo\propertiesreader\PropertyReader.class
+com\saucedemo\utilities\Utility$1.class
+com\saucedemo\utilities\Utility.class
+com\saucedemo\pages\Products.class
